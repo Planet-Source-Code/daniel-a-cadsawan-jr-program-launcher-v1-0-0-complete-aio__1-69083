@@ -1,0 +1,11 @@
+Version 1.0.0
+
+Program Launcher, Work Scheduler, Sticky Notes and System Settings
+
+I'll be writing a comprehensive version history, for now
+i'll just stick with this until my project is final.
+
+Thanks,
+dani boy
+dcadsawan@moog.com
+xavierjohn22@yahoo.com
